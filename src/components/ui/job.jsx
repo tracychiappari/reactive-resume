@@ -11,5 +11,9 @@ export function JobMeta({ children }) {
 }
 
 export function JobDescription({ children }) {
-    return <p>{children}</p>;
+    return <ul className="list-inside list-disc">{children}</ul>;
+}
+
+export function JobPoint ({ children }) {
+    return <li>{children}</li>;
 }
