@@ -8,7 +8,7 @@ export function Experience() {
             <div className="space-y-6">
                 <JobExperience>
                     <JobTitle>cityCore, LLC — Senior Developer / Contractor</JobTitle>
-                    <JobMeta>Santa Barbara, CA • Sep 2023 – Present</JobMeta>
+                    <JobMeta>Remote • Sep 2023 – Present</JobMeta>
                     <JobDescription>
                         <JobPoint>Refactored a 3,000-line procedural API responsible for ingesting RFID reader data for an inventory management platform, restructuring duplicated SQL and business logic into modular, secure, maintainable code.</JobPoint>
                         <JobPoint>Clarified and organized status transitions for warehouse items (e.g., received, transferred, sold), improving traceability of transaction and payment logic.</JobPoint>
@@ -17,33 +17,23 @@ export function Experience() {
                 </JobExperience>
 
                 <JobExperience>
-                    <JobTitle>Social Intelligence — Director of Engineering</JobTitle>
-                    <JobMeta>Santa Barbara, CA • Mar 2021 – Oct 2023</JobMeta>
+                    <JobTitle>Social Intelligence — Lead Developer</JobTitle>
+                    <JobMeta>Remote • Mar 2017 – Oct 2023</JobMeta>
                     <JobDescription>
                         <JobPoint>Led a remote engineering team responsible for two LAMP-based web applications delivering social media background checks.</JobPoint>
-                        <JobPoint>Introduced a four-week sprint release cycle and structured product planning to improve delivery cadence and transparency.</JobPoint>
-                        <JobPoint>Developed Chrome extensions for keyword detection, data capture, and full page screenshots.</JobPoint>
-                        <JobPoint>Integrated with third-party platforms via XML APIs.</JobPoint>
-                        <JobPoint>Managed AWS infrastructure and cost optimization, and guided upgrades to PHP 8 and MySQL 5.7.</JobPoint>
-                        <JobPoint>Provided mentorship, conducted performance reviews, and supported team growth during acquisition transition.</JobPoint>
-                    </JobDescription>
-                </JobExperience>
-
-                <JobExperience>
-                    <JobTitle>Social Intelligence — Senior Developer</JobTitle>
-                    <JobMeta>Mar 2017 – Mar 2021</JobMeta>
-                    <JobDescription>
-                        <JobPoint>Led development of a LAMP-based social screening platform, including product architecture, feature design, and partner integrations.</JobPoint>
+                        <JobPoint>Introduced a four-week sprint release cycle and structured product planning to improve delivery cadence and transparency. Provided mentorship, conducted performance reviews, and supported team growth.</JobPoint>
+                        <JobPoint>Managed AWS infrastructure and cost optimization.</JobPoint>
+                        <JobPoint>Upgraded legacy code to PHP 8, refactoring class structures and introducing modern libraries.</JobPoint>
                         <JobPoint>Designed and launched a JSON-based REST API for external clients and partner systems.</JobPoint>
-                        <JobPoint>Upgraded legacy code to PHP 7.1 with Composer, refactoring class structure and introducing modern libraries.</JobPoint>
-                        <JobPoint>Oversaw a technical separation from a sister company, including AWS data migration and server handoff.</JobPoint>
                         <JobPoint>Implemented Stripe integration and redesigned the client UI to streamline onboarding and analysis workflows.</JobPoint>
+                        <JobPoint>Developed Chrome extensions for data capture, and full-page screenshots.</JobPoint>
+                        <JobPoint>Oversaw technical separation from a sister company, including AWS data migration and server handoff, and helped lead the team through a successful acquisition and transition.</JobPoint>
                     </JobDescription>
                 </JobExperience>
 
                 <JobExperience>
                     <JobTitle>Omniplex World Services — Senior Programmer Analyst</JobTitle>
-                    <JobMeta>Chantilly, VA • Jan 2016 – Feb 2017</JobMeta>
+                    <JobMeta>Remote • Jan 2016 – Feb 2017</JobMeta>
                     <JobDescription>
                         <JobPoint>Sole developer maintaining a LAMP-based platform for security clearance reporting.</JobPoint>
                         <JobPoint>Managed AWS GovCloud infrastructure and server migrations to Amazon Linux.</JobPoint>
@@ -54,7 +44,7 @@ export function Experience() {
 
                 <JobExperience>
                     <JobTitle>Riv Data Corp — Senior Developer</JobTitle>
-                    <JobMeta>Santa Barbara, CA • Feb 2011 – Jan 2016</JobMeta>
+                    <JobMeta>Remote • Feb 2011 – Jan 2016</JobMeta>
                     <JobDescription>
                         <JobPoint>Designed and implemented features for a social media-based reporting platform.</JobPoint>
                         <JobPoint>Built a Chrome extension with screen capture and in-browser image processing via Canvas.</JobPoint>
@@ -65,7 +55,7 @@ export function Experience() {
 
                 <JobExperience>
                     <JobTitle>LexisNexis — Software Engineer</JobTitle>
-                    <JobMeta>Santa Barbara, CA • Aug 2008 – Jan 2011</JobMeta>
+                    <JobMeta>Remote • Aug 2008 – Jan 2011</JobMeta>
                     <JobDescription>
                         <JobPoint>Developed and maintained PHP-based insurance quoting and policy administration software.</JobPoint>
                         <JobPoint>Implemented client-specific features, scoped estimates, and guided client onboarding.</JobPoint>
