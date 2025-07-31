@@ -1,4 +1,4 @@
-import {Section, SectionHeader} from './ui/section';
+import {Section, SectionHeader} from './ui/Section.jsx';
 
 export function Summary() {
     return (

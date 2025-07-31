@@ -1,5 +1,5 @@
-import {Section, SectionHeader} from "./ui/section.jsx";
-import {JobExperience, JobTitle, JobMeta, JobDescription, JobPoint} from "./ui/job.jsx";
+import {Section, SectionHeader} from "./ui/Section.jsx";
+import {JobExperience, JobTitle, JobMeta, JobDescription, JobPoint} from "./ui/Job.jsx";
 
 export function Experience() {
     return (

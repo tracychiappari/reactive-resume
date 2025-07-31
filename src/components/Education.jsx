@@ -1,5 +1,5 @@
-import {Section, SectionHeader} from "./ui/section.jsx";
-import {School} from "./ui/school.jsx";
+import {Section, SectionHeader} from "./ui/Section.jsx";
+import {School} from "./ui/School.jsx";
 
 export function Education() {
     return (

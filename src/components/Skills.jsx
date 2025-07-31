@@ -1,5 +1,5 @@
-import {Section, SectionHeader} from "./ui/section.jsx";
-import {Skill} from "./ui/skill.jsx";
+import {Section, SectionHeader} from "./ui/Section.jsx";
+import {Skill} from "./ui/Skill.jsx";
 
 export function Skills() {
     return (
