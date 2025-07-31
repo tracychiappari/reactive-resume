@@ -1,4 +1,4 @@
-import {Resume} from "./components/resume.jsx";
+import {Resume} from "./components/Resume.jsx";
 
 function App() {
     return (
