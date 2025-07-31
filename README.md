@@ -39,7 +39,7 @@ As a developer and designer, I lean toward open source technologies—particular
 *Santa Barbara, CA • Sep 2023 – Present*  
 Refactored the internal API to align with modern PHP coding standards and improve maintainability.
 
-### Social Intelligence — Director of Engineering
+### Social Intelligence — Lead Developer
 *Santa Barbara, CA • Mar 2021 – Oct 2023*  
 Led a small engineering team managing a LAMP-based hiring platform delivering social media reports. Oversaw development, deployment, and maintenance of two web applications, managed AWS costs, and implemented a structured four-week sprint release schedule. Designed product improvements to enhance analyst productivity and client understanding. Developed Chrome extensions for identifying keywords and capturing relevant data. Integrated third-party background screening platforms via XML APIs. Upgraded codebases to PHP 8.0 and MySQL 5.7. Assisted with client transitions following the company’s acquisition by FAMA Technologies.
 
